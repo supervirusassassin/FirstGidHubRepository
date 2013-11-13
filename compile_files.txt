@@ -1,0 +1,3 @@
+javac -d class source\ui\Application.java source\ui\SpringUtilities.java source\database\customertransaction\CustomerTransaction.java source\database\contracttransaction\ContractTransaction.java source\database\DBTools.java source\businessobject\customer\Customer.java
+
+java ui.Application
